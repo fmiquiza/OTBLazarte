@@ -1,2 +1,11 @@
 C:\Users\Methos\Documents\Visual Studio 2013\Projects\Estructura Ejercicios 2do Parcial\OTB\OTB\bin\Debug\OTB.exe.config
 C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\bin\Debug\OTB.exe.config
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\bin\Debug\OTB.exe
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\bin\Debug\OTB.pdb
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.csprojResolveAssemblyReference.cache
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.AdministradorGUI.resources
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.LoginGUI.resources
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.Properties.Resources.resources
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.csproj.GenerateResource.Cache
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.exe
+C:\Users\Methos\Documents\GitHub\OTBLazarte\Alpha1.0\OTB\obj\Debug\OTB.pdb

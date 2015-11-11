@@ -1,6 +1,6 @@
 ﻿namespace OTB
 {
-    partial class Form1
+    partial class AdministradorGUI
     {
         /// <summary>
         /// Required designer variable.

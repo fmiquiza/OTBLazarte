@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Eventos>
+  <Evento ID="1">
+    <nomevento>1ra Reunion</nomevento>   
+  </Evento>
+  <Evento ID="2">
+    <nomevento>2da Reunion</nomevento>
+  </Evento>
+  <Evento ID="3">
+    <nomevento>Desfile 6 de Agosto</nomevento>
+  </Evento>
+</Eventos>

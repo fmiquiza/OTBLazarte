@@ -16,7 +16,7 @@ namespace OTB
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AdministradorGUI());
+            Application.Run(new LoginGUI());
         }
     }
 }

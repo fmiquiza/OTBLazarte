@@ -4,40 +4,7 @@
     <nombre>pepe</nombre>
     <apellido>poios</apellido>
     <fecha>03/11/2015</fecha>
-    <numsocio>1</numsocio>
-    <idevento>1</idevento>
-    <idasistencia>1</idasistencia>
+    <idusuario>1</idusuario>
+    <codigo></codigo>
   </Persona>
-  <Persona ID="2">
-    <nombre>LUIS</nombre>
-    <apellido>Miguel</apellido>
-    <fecha>09/11/2015 21:19:25</fecha>
-    <numsocio>2</numsocio>
-    <idevento>2</idevento>
-    <idasistencia>2</idasistencia>
-  </Persona>
-  <Persona ID="3">
-    <nombre>Selina</nombre>
-    <apellido>Melina</apellido>
-    <fecha>09/11/2015 21:19:36</fecha>
-    <numsocio>3</numsocio>
-    <idevento>4</idevento>
-    <idasistencia>1</idasistencia>
-  </Persona>
-  <Persona ID="4">
-    <nombre>Franz</nombre>
-    <apellido>Chuquimia</apellido>
-    <fecha>10/11/2015 8:16:48</fecha>
-    <numsocio>4</numsocio>
-    <idevento>2</idevento>
-    <idasistencia>2</idasistencia>
-  </Persona>
-   <Persona ID="5">
-    <nombre>Juancito</nombre>
-    <apellido>Pinto</apellido>
-    <fecha>10/11/2015 8:16:48</fecha>
-    <numsocio>8</numsocio>
-    <idevento>2</idevento>
-    <idasistencia>2</idasistencia>
-  </Persona>
-</Personas>
+ </Personas>

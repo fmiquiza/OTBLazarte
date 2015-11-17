@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Roles>
+  <Rol ID="1">
+    <nomrol></nomrol>  
+  </Rol>
+  <Rol ID="2">
+     <nomrol></nomrol>  
+  </Rol>
+  <Rol ID="3">
+     <nomrol></nomrol>  
+  </Rol>
+</Roles>

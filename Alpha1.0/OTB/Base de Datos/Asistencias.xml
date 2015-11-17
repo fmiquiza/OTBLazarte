@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Asistencias>
   <Asistencia ID="1">
-    <numsocio>1</numsocio>
-    <fecha>10/11/2015 10:26:56</fecha>
-    <codigo>723894923</codigo>
+   <idpersona></idpersona>
+   <ideventos></ideventos>
+   <fecha></fecha>
   </Asistencia>
-  <Asistencia ID="2">
-    <numsocio>1</numsocio>
-    <fecha>10/11/2015 22:23:27</fecha>
-    <codigo>589832984</codigo>
-  </Asistencia>
-  <Asistencia ID="3">
-    <numsocio>2</numsocio>
-    <fecha>10/11/2015 22:55:13</fecha>
-    <codigo>579283794</codigo>
-    
-  </Asistencia>
-</Asistencias>
+ </Asistencias>
